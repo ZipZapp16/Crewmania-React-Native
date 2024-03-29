@@ -1,0 +1,20 @@
+{
+    "login": {
+        "title": "Inicia sesión",
+        "username": "Correo electrónico",
+        "password": "Contraseña",
+        "button": "Iniciar sesión",
+        "other": "O inicia sesión con",
+        "noAccount": "¿No tienes una cuenta?",
+        "register": "Regístrate aquí"
+    },
+    "signup": {
+        "title": "¡Preparate para la comenzar!",
+        "username": "Correo electrónico",
+        "password": "Contraseña",
+        "button": "Regístrate",
+        "other": "O regístrate con",
+        "haveAccount": "¿Ya tienes una cuenta?",
+        "login": "Inicia sesión aquí"
+    }
+}
